@@ -1,1 +1,1 @@
-# Linguagem-C-eXcript-Eduardo-Casavella
+# Linguagem-C-eXcript-e-Eduardo-Casavella
